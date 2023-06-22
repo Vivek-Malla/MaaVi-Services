@@ -1,0 +1,19 @@
+#mainNav .navbar-brand {
+  font-weight: 900;
+}
+
+#mainNav .navbar-brand {
+  font-weight: 700;
+}
+
+.bs-icon.bs-icon-secondary {
+  color: var(--bs-primary);
+  background: #FF914D;
+}
+
+::selection {
+  color: #fff;
+  background: #FF914D;
+  text-shadow: none;
+}
+
